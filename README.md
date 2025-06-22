@@ -1,2 +1,1 @@
-"This my first git lab"
-"I am Pratik"
+"This is my git first Practice"
